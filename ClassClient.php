@@ -24,7 +24,7 @@ class ClassClient {
     }
     
     function fantasma() {
-        echo $this->numero;
+        echo $this->numero + $this->nombre;
     }
 
 }
