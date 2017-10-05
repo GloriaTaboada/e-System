@@ -22,5 +22,9 @@ class ClassClient {
     function dame_nombreYnum() {
         return $this->nombre + $this->numero;
     }
+    
+    function fantasma() {
+        
+    }
 
 }
