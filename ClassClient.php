@@ -11,5 +11,8 @@ class ClassClient {
         $this->numero=$numero;
     } 
     
+    function dame_numero(){ 
+      	return $this->numero; 
+    }
 
 }
